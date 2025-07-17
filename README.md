@@ -29,9 +29,6 @@ I'm a **Technology Strategy Leader** with a passion for designing secure, scalab
 - 🔗 **Blockchain Technology**: Understanding decentralized applications and smart contracts.  
 - 🏎️ **Edge Computing**: Implementing computing at the edge for faster data processing.  
 
-## 📈 GitHub Stats  
-
-![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjohnso3-Dev&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect  
 
